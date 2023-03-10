@@ -36,8 +36,8 @@ const data = [
     { Name_of_the_States: 'Puducherry', r_by_p: 290.7046235},
   ];
 
-  const width = 1280;
-  const height = 720;
+  const width = 854;
+  const height = 480;
   const margin = { top: 50, bottom: 50, left: 50, right: 50 };
   
   const svg = d3.select('#d3-container')
